@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/nandmanohar/static/css/main.d5b9e263.css",
+    "main.js": "/nandmanohar/static/js/main.b26d9b4e.js",
+    "static/js/787.18f0f45a.chunk.js": "/nandmanohar/static/js/787.18f0f45a.chunk.js",
+    "static/media/3.png": "/nandmanohar/static/media/3.3ec6ea9ab7a325460655.png",
+    "static/media/slider2.jpg": "/nandmanohar/static/media/slider2.b92e289cbc045577b38d.jpg",
+    "static/media/chooseus.jpg": "/nandmanohar/static/media/chooseus.54d03073834dcdfd81ce.jpg",
+    "static/media/bg-hero.jpg": "/nandmanohar/static/media/bg-hero.2e6d5a35d22cda1a0dd8.jpg",
+    "static/media/spice.jpg": "/nandmanohar/static/media/spice.d3b300e9ab0113e1c6a4.jpg",
+    "static/media/bg-works.jpg": "/nandmanohar/static/media/bg-works.abd66d06d525eadfd24a.jpg",
+    "static/media/king.jpg": "/nandmanohar/static/media/king.1ab9b8b4b72e91d69bfb.jpg",
+    "static/media/misal-pav.jpg": "/nandmanohar/static/media/misal-pav.5e3d20af79d61171f5a1.jpg",
+    "static/media/slider1.jpg": "/nandmanohar/static/media/slider1.745705948793f9fdd921.jpg",
+    "static/media/ist.jpg": "/nandmanohar/static/media/ist.21ab2fe0ec38ff741029.jpg",
+    "static/media/biryani.jpg": "/nandmanohar/static/media/biryani.008824516774b74887de.jpg",
+    "static/media/productbg.png": "/nandmanohar/static/media/productbg.e94cebe2b3d625d0c920.png",
+    "static/media/chilli.jpg": "/nandmanohar/static/media/chilli.3008fdc57d5a5cbdd85a.jpg",
+    "static/media/Aam.jpg": "/nandmanohar/static/media/Aam.acbbf31f246a6b96bfdb.jpg",
+    "static/media/logo.png": "/nandmanohar/static/media/logo.0fd390e378d8fdf4de8e.png",
+    "static/media/red_chili.png": "/nandmanohar/static/media/red_chili.692e841ae4d79579d3a2.png",
+    "static/media/about.png": "/nandmanohar/static/media/about.01a51b2673d56ac7a17d.png",
+    "static/media/why_bg.png": "/nandmanohar/static/media/why_bg.29530865a3c72bbbc532.png",
+    "static/media/review.png": "/nandmanohar/static/media/review.4995303184468c63994d.png",
+    "static/media/revicons.eot": "/nandmanohar/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/nandmanohar/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/nandmanohar/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/chooseicon2.svg": "/nandmanohar/static/media/chooseicon2.0a9ba584379c8aa3bab62233ca7fce32.svg",
+    "static/media/chooseiconbg.svg": "/nandmanohar/static/media/chooseiconbg.aabba61bda69e1082451.svg",
+    "static/media/chooseicon1.svg": "/nandmanohar/static/media/chooseicon1.69f65fc0b23e49603300e3155400a1dc.svg",
+    "static/media/quote.svg": "/nandmanohar/static/media/quote.b958d910b4d446a50b2ee08256be168e.svg",
+    "index.html": "/nandmanohar/index.html",
+    "main.d5b9e263.css.map": "/nandmanohar/static/css/main.d5b9e263.css.map",
+    "main.b26d9b4e.js.map": "/nandmanohar/static/js/main.b26d9b4e.js.map",
+    "787.18f0f45a.chunk.js.map": "/nandmanohar/static/js/787.18f0f45a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5b9e263.css",
+    "static/js/main.b26d9b4e.js"
+  ]
+}
