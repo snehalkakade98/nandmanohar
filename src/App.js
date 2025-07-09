@@ -24,7 +24,7 @@ function App() {
    <>
     <Layout className="mainLayout">
     
-      <BrowserRouter>
+      <BrowserRouter basename="/nandmanohar">
       <Header>
     
        <Appheader/>
